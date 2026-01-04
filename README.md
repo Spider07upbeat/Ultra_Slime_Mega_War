@@ -8,7 +8,7 @@
 
 <img width="1897" height="907" alt="menuInicial" src="https://github.com/user-attachments/assets/08cf0c66-d324-4aa3-9558-0b4c4ea6bbf9" />
 
-### No Seletor de Avatar o jogador possui 22 opções de avatar, sendo o primeiro o escolhido por padrão.
+### No Seletor de Avatar o jogador possui 22 opções de avatar, sendo o primeiro o escolhido por padrão. Quando o jogador quiser voltar ao menu inicial só tem de clicar no botão "Close" no canto inferior direito.
 ### Seleção de Avatar
 
 <img width="1899" height="912" alt="Captura de ecrã 2026-01-04 180835" src="https://github.com/user-attachments/assets/395a36b9-3880-4cbf-82f6-1b3e9cc221b5" />
